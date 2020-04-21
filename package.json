@@ -1,5 +1,8 @@
 {
   "name": "expensify",
+  "engines": {
+    "node": ">=50.9"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "author": "Andrew Mead",
